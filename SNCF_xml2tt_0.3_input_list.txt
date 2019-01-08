@@ -1,0 +1,11 @@
+# list timetable .xml and .route files for 'SNCF_xml2tt_0.3.py'
+FT_6254_2014_10_15.xml	MarneLaVallee_Montpellier_rev1.14.route
+FT_6256_2014_10_14.xml	MarneLaVallee_MarseilleStC_rev1.14.route
+FT_6256_2014_10_16.xml	MarneLaVallee_MarseilleStC_rev1.14.route
+FT_6258_2014_10_13.xml	MarneLaVallee_Montpellier_rev1.14.route
+FT_6258_2014_10_17.xml	MarneLaVallee_Montpellier_rev1.14.route
+FT_6290_2014_10_15.xml	Montpellier_MarneLaVallee_rev1.14.route
+FT_6292_2014_10_14.xml	MarseilleStC_MarneLaVallee_rev1.14.route
+FT_6292_2014_10_16.xml	MarseilleStC_MarneLaVallee_rev1.14.route
+FT_6294_2014_10_13.xml	Montpellier_MarneLaVallee_rev1.14.route
+FT_6294_2014_10_17.xml	Montpellier_MarneLaVallee_rev1.14.route
